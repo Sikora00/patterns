@@ -5,7 +5,7 @@ It is intended solely for demonstration and educational purposes within my team.
 
 ## Copyright & Usage
 
-**Copyright © 2025 Your Name. All rights reserved.**
+**Copyright © 2025 Maciej Sikorski. All rights reserved.**
 
 - You are not permitted to copy, use, modify, or redistribute any part of this code without explicit written permission from the author.
 - This repository is for viewing purposes only.
